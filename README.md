@@ -1,6 +1,6 @@
-- 👀 I’m interested in Python, Powershell, Algotrading (Cryptocurrencies in particular)
+- I’m interested in Python, Powershell, Algotrading (Cryptocurrencies in particular)
 
-- 💞️ I’m happy to collaborate on algotrading - Moving Averages, RSI, STOCH, STOCHRSI, MACD, and CCI are the primary indicators I work with in various combinations.  Currently working on Ichimoku Cloud trading strategy.
+- I’m happy to collaborate on algotrading - Moving Averages, RSI, STOCH, STOCHRSI, MACD, and CCI are the primary indicators I work with in various combinations.  Currently working on Ichimoku Cloud trading strategy.
 
 
 
